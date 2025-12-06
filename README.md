@@ -1,8 +1,8 @@
-# Welcome A Futuristic Store Front
+# Welcome To A Futuristic Store Front
 
 ## Project info
 
-Here is a futuristic online shoping aimed to ease user experience
+Here is a futuristic e-commerce website with a user-oriented look
 
 If you want contribute to this project or just need to improve it for you own, you can clone this repo and push changes. Pushed changes
 
